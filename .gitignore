@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Firebase
+firebase_key.json
+
+# Images
+incoming/
+processed/
+results/
+
+# Logs
+registro.json
+
+# React
+node_modules/
+dist/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
